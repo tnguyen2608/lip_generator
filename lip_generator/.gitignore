@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.vscode/
+.history/
+*.npz
+*.pkl
+*.pickle
+.DS_Store
+.env
+.venv
